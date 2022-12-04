@@ -1,5 +1,5 @@
 //
-// Created by Michal on 26.02.2021.
+// Created by Natty on 26.02.2021.
 //
 
 #ifndef YMD3_YOUTUBERETRIEVER_H

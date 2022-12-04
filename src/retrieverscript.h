@@ -1,5 +1,5 @@
 //
-// Created by Michal on 01.03.2021.
+// Created by Natty on 01.03.2021.
 //
 
 #ifndef YMD3_RETRIEVERSCRIPT_H
